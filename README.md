@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Lazarev33/antichrist"><img src="https://www.clipartmax.com/png/full/142-1427050_sigil-of-baphomet-images-crazy-gallery-church-of-satan-logo.png" alt="b0mb3r"></a>
+  <a href="https://github.com/Lazarev33/antichrist"><img src="https://i.ibb.co/M9H0Hdp/142-1427050-sigil-of-baphomet-images-crazy-gallery-church-of-satan-logo.png" alt="Antichrist"></a>
   <br>
   Antichrist
   <br>
